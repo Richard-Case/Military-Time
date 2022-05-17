@@ -1,0 +1,2 @@
+This is a simple time-conversion app that I created as a solution to a community challenge.
+The user is prompted to enter a 12-hour time, and the app converts it to 24-hour and outputs that to the terminal.

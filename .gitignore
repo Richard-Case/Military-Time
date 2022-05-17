@@ -1,0 +1,7 @@
+# File types to ignore
+.vscode
+*.o
+.DS_store
+
+# Executable to ignore
+MilitaryTime
